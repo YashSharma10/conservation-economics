@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conservation Economics Quiz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <main class="app-container">
+        <header class="app-header">
+            <div class="header-badges">
+                <span class="badge">Made by Yash Sharma</span>
+            </div>
+            <div class="header-content">
+                <h1>Conservation Economics</h1>
+                <p class="subtitle">Test your knowledge from Week 1 to Week 6</p>
+            </div>
+            
+            <nav class="week-selector" id="weekSelector">
+                <!-- Week pills generated dynamically -->
+            </nav>
+        </header>
+
+        <section class="quiz-dashboard" id="quizDashboard">
+            <div class="dashboard-stats">
+                <div class="stat-card">
+                    <span class="stat-label">Current Week</span>
+                    <strong class="stat-value" id="currentWeekDisplay">1</strong>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label">Progress</span>
+                    <strong class="stat-value" id="progressDisplay">0 / 0</strong>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label">Score</span>
+                    <strong class="stat-value" id="scoreDisplay">0%</strong>
+                </div>
+            </div>
+
+            <div class="questions-container" id="questionsContainer">
+                <!-- Questions generated dynamically -->
+            </div>
+        </section>
+
+        <footer class="app-footer">
+            <p>Made by Yash Sharma</p>
+        </footer>
+    </main>
+
+    <script type="module" src="https://unpkg.com/lucide@latest"></script>
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
