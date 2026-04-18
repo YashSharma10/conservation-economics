@@ -1654,5 +1654,1325 @@ const quizData = [
         "is_correct": false
       }
     ]
+  },
+  {
+    "week": 7,
+    "question": "Laffer's curve is the relationship between",
+    "options": [
+      {
+        "text": "a. inflation and unemployment",
+        "is_correct": false
+      },
+      {
+        "text": "b. tax size and tax revenue",
+        "is_correct": true
+      },
+      {
+        "text": "c. producer surplus and consumer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "d. tax size and deadweight loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "\u201cthe amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it\u201d is",
+    "options": [
+      {
+        "text": "a. consumer surplus",
+        "is_correct": true
+      },
+      {
+        "text": "b. producer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "c. total surplus",
+        "is_correct": false
+      },
+      {
+        "text": "d. deadweight loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "\u201cthe fall in total surplus that results from a market distortion, such as a tax\u201d is",
+    "options": [
+      {
+        "text": "a. consumer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "b. producer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "c. total surplus",
+        "is_correct": false
+      },
+      {
+        "text": "d. deadweight loss",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "\u201cthe amount a seller is paid for a good minus the seller\u2019s cost of providing it\u201d is",
+    "options": [
+      {
+        "text": "a. consumer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "b. producer surplus",
+        "is_correct": true
+      },
+      {
+        "text": "c. total surplus",
+        "is_correct": false
+      },
+      {
+        "text": "d. deadweight loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "\u201cthe maximum amount that a buyer will pay for a good\u201d is",
+    "options": [
+      {
+        "text": "a. willingness to pay",
+        "is_correct": true
+      },
+      {
+        "text": "b. market demand",
+        "is_correct": false
+      },
+      {
+        "text": "c. demand curve",
+        "is_correct": false
+      },
+      {
+        "text": "d. buyer\u2019s surplus",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "Imposition of tariff",
+    "options": [
+      {
+        "text": "a. increases producer surplus and government revenue",
+        "is_correct": true
+      },
+      {
+        "text": "b. increases consumer surplus and government revenue",
+        "is_correct": false
+      },
+      {
+        "text": "c. increases producer surplus, consumer surplus and government revenue",
+        "is_correct": false
+      },
+      {
+        "text": "d. increases total surplus",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "The area between the supply curve and the price is an indicator of",
+    "options": [
+      {
+        "text": "a. consumer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "b. producer surplus",
+        "is_correct": true
+      },
+      {
+        "text": "c. total surplus",
+        "is_correct": false
+      },
+      {
+        "text": "d. deadweight loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "Value to buyers - Cost to sellers is",
+    "options": [
+      {
+        "text": "a. consumer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "b. producer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "c. total surplus",
+        "is_correct": true
+      },
+      {
+        "text": "d. deadweight loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "\"the price of a good that prevails in the world market for that good\u201d is the definition of",
+    "options": [
+      {
+        "text": "a. export price",
+        "is_correct": false
+      },
+      {
+        "text": "b. import price",
+        "is_correct": false
+      },
+      {
+        "text": "c. world price",
+        "is_correct": true
+      },
+      {
+        "text": "d. domestic price",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "question": "The area between the demand curve and the price is an indicator of",
+    "options": [
+      {
+        "text": "a. consumer surplus",
+        "is_correct": true
+      },
+      {
+        "text": "b. producer surplus",
+        "is_correct": false
+      },
+      {
+        "text": "c. total surplus",
+        "is_correct": false
+      },
+      {
+        "text": "d. deadweight loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "For a positive production externality,",
+    "options": [
+      {
+        "text": "(a) SMB = PMB",
+        "is_correct": true
+      },
+      {
+        "text": "(b) SMB = PMB \u2212 MD",
+        "is_correct": false
+      },
+      {
+        "text": "(c) SMB = PMB + MB",
+        "is_correct": false
+      },
+      {
+        "text": "(d) SMC = PMC / MD",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "\u201cThe direct benefit to consumers of consuming an additional unit of a good by the consumer\u201d is",
+    "options": [
+      {
+        "text": "a. private marginal cost (PMC)",
+        "is_correct": false
+      },
+      {
+        "text": "b. social marginal cost (SMC)",
+        "is_correct": false
+      },
+      {
+        "text": "c. private marginal benefit (PMB)",
+        "is_correct": true
+      },
+      {
+        "text": "d. social marginal benefit (SMB)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "Partying with loud noise is an example of",
+    "options": [
+      {
+        "text": "a. negative production externality",
+        "is_correct": false
+      },
+      {
+        "text": "b. positive production externality",
+        "is_correct": false
+      },
+      {
+        "text": "c. negative consumption externality",
+        "is_correct": true
+      },
+      {
+        "text": "d. positive consumption externality",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "\u201cWhen an individual\u2019s consumption reduces the well-being of others who are not compensated by the individual,\u201d we have",
+    "options": [
+      {
+        "text": "a. negative production externality",
+        "is_correct": false
+      },
+      {
+        "text": "b. positive production externality",
+        "is_correct": false
+      },
+      {
+        "text": "c. negative consumption externality",
+        "is_correct": true
+      },
+      {
+        "text": "d. positive consumption externality",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "\u201cWhen a firm\u2019s production reduces the well-being of others who are not compensated by the firm,\u201d we have",
+    "options": [
+      {
+        "text": "a. negative production externality",
+        "is_correct": true
+      },
+      {
+        "text": "b. positive production externality",
+        "is_correct": false
+      },
+      {
+        "text": "c. negative consumption externality",
+        "is_correct": false
+      },
+      {
+        "text": "d. positive consumption externality",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "Vaccination is an example of",
+    "options": [
+      {
+        "text": "a. negative production externality",
+        "is_correct": false
+      },
+      {
+        "text": "b. positive production externality",
+        "is_correct": false
+      },
+      {
+        "text": "c. negative consumption externality",
+        "is_correct": false
+      },
+      {
+        "text": "d. positive consumption externality",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "\u201cWhen a firm\u2019s production increases the well-being of others but the firm is not compensated by those others,\u201d we have",
+    "options": [
+      {
+        "text": "a. negative production externality",
+        "is_correct": false
+      },
+      {
+        "text": "b. positive production externality",
+        "is_correct": true
+      },
+      {
+        "text": "c. negative consumption externality",
+        "is_correct": false
+      },
+      {
+        "text": "d. positive consumption externality",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "For a positive consumption externality,",
+    "options": [
+      {
+        "text": "(a) SMB = PMB",
+        "is_correct": false
+      },
+      {
+        "text": "(b) SMB = PMB \u2212 MD",
+        "is_correct": false
+      },
+      {
+        "text": "(c) SMB = PMB + MB",
+        "is_correct": true
+      },
+      {
+        "text": "(d) SMC = PMC / MD",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "For a negative consumption externality,",
+    "options": [
+      {
+        "text": "(a) SMB = PMB",
+        "is_correct": false
+      },
+      {
+        "text": "(b) SMB = PMB \u2212 MD",
+        "is_correct": true
+      },
+      {
+        "text": "(c) SMB = PMB + MB",
+        "is_correct": false
+      },
+      {
+        "text": "(d) SMC = PMC / MD",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "question": "For a negative production externality,",
+    "options": [
+      {
+        "text": "(a) SMC = PMC + MD",
+        "is_correct": true
+      },
+      {
+        "text": "(b) SMC = PMC - MD",
+        "is_correct": false
+      },
+      {
+        "text": "(c) SMC = PMC",
+        "is_correct": false
+      },
+      {
+        "text": "(d) SMC = PMC - MB",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "\u201cthe increase in total cost that arises from an extra unit of production\u201d are",
+    "options": [
+      {
+        "text": "a. fixed costs",
+        "is_correct": false
+      },
+      {
+        "text": "b. variable costs",
+        "is_correct": false
+      },
+      {
+        "text": "c. marginal costs",
+        "is_correct": true
+      },
+      {
+        "text": "d. sunk costs",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "\u201cthe increase in output that arises from an additional unit of input\u201d is",
+    "options": [
+      {
+        "text": "a. marginal product",
+        "is_correct": true
+      },
+      {
+        "text": "b. marginal profit",
+        "is_correct": false
+      },
+      {
+        "text": "c. marginal loss",
+        "is_correct": false
+      },
+      {
+        "text": "d. marginal cost",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "A monopolist firm\u2019s profit is given by",
+    "options": [
+      {
+        "text": "a. (Price - ATC) \u00d7 Q",
+        "is_correct": true
+      },
+      {
+        "text": "b. (Price - Q) \u00d7 ATC",
+        "is_correct": false
+      },
+      {
+        "text": "c. (ATC - Q) \u00d7 Price",
+        "is_correct": false
+      },
+      {
+        "text": "d. Price \u00d7 Q - ATC",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "Which of the following is true for a competitive firm?",
+    "options": [
+      {
+        "text": "a. P > MR",
+        "is_correct": false
+      },
+      {
+        "text": "b. P > MC",
+        "is_correct": false
+      },
+      {
+        "text": "c. MR > MC",
+        "is_correct": false
+      },
+      {
+        "text": "d. MR = MC",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "\u201cthe relationship between the quantity of inputs used to make a good and the quantity of output of that good\u201d is",
+    "options": [
+      {
+        "text": "a. Laffer\u2019s curve",
+        "is_correct": false
+      },
+      {
+        "text": "b. Phillips curve",
+        "is_correct": false
+      },
+      {
+        "text": "c. Production function",
+        "is_correct": true
+      },
+      {
+        "text": "d. Output function",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "\u201ctotal revenue minus total cost, including both explicit and implicit costs\u201d is a definition of",
+    "options": [
+      {
+        "text": "a. economic profit",
+        "is_correct": true
+      },
+      {
+        "text": "b. accounting profit",
+        "is_correct": false
+      },
+      {
+        "text": "c. profit",
+        "is_correct": false
+      },
+      {
+        "text": "d. loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "When the cost of production for a single firm is much lesser than the cost of production for competitive firms, we have a / an",
+    "options": [
+      {
+        "text": "(a) natural monopoly",
+        "is_correct": true
+      },
+      {
+        "text": "(b) artificial monopoly",
+        "is_correct": false
+      },
+      {
+        "text": "(c) oligopoly",
+        "is_correct": false
+      },
+      {
+        "text": "(d) duopoly",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "Which of the following is true for a monopoly?",
+    "options": [
+      {
+        "text": "a. P > MR",
+        "is_correct": true
+      },
+      {
+        "text": "b. MR > MC",
+        "is_correct": false
+      },
+      {
+        "text": "c. MC > P",
+        "is_correct": false
+      },
+      {
+        "text": "d. MC > MR",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "\u201ccosts that do not vary with the quantity of output produced\u201d are",
+    "options": [
+      {
+        "text": "a. fixed costs",
+        "is_correct": true
+      },
+      {
+        "text": "b. variable costs",
+        "is_correct": false
+      },
+      {
+        "text": "c. marginal costs",
+        "is_correct": false
+      },
+      {
+        "text": "d. sunk costs",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "question": "\u201ctotal revenue minus total explicit cost\u201d is a definition of",
+    "options": [
+      {
+        "text": "a. economic profit",
+        "is_correct": false
+      },
+      {
+        "text": "b. accounting profit",
+        "is_correct": true
+      },
+      {
+        "text": "c. profit",
+        "is_correct": false
+      },
+      {
+        "text": "d. loss",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201cthe political philosophy according to which the government should choose policies deemed just, as evaluated by an impartial observer behind a \u201cveil of ignorance\u201d \u201d is",
+    "options": [
+      {
+        "text": "a. Utilitarianism",
+        "is_correct": false
+      },
+      {
+        "text": "b. Liberalism",
+        "is_correct": true
+      },
+      {
+        "text": "c. Libertarianism",
+        "is_correct": false
+      },
+      {
+        "text": "d. Socialism",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201ca condition characterised by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information\u201d is known as",
+    "options": [
+      {
+        "text": "a. absolute poverty",
+        "is_correct": true
+      },
+      {
+        "text": "b. relative poverty",
+        "is_correct": false
+      },
+      {
+        "text": "c. median poverty",
+        "is_correct": false
+      },
+      {
+        "text": "d. poverty line",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201can absolute level of income set by the government for each family size below which a family is deemed to be in poverty\u201d is known as",
+    "options": [
+      {
+        "text": "a. deprivation line",
+        "is_correct": false
+      },
+      {
+        "text": "b. poverty line",
+        "is_correct": true
+      },
+      {
+        "text": "c. deprivation index",
+        "is_correct": false
+      },
+      {
+        "text": "d. poverty index",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201cabove-equilibrium wages paid by firms to increase worker productivity\u201d are known as",
+    "options": [
+      {
+        "text": "a. compensating wage",
+        "is_correct": false
+      },
+      {
+        "text": "b. efficiency wage",
+        "is_correct": true
+      },
+      {
+        "text": "c. productivity wage",
+        "is_correct": false
+      },
+      {
+        "text": "d. retention wage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201ca difference in wages that arises to offset the non-monetary characteristics of different jobs\u201d is known as",
+    "options": [
+      {
+        "text": "a. differentiating differential",
+        "is_correct": false
+      },
+      {
+        "text": "b. compensating differential",
+        "is_correct": true
+      },
+      {
+        "text": "c. differentiating integral",
+        "is_correct": false
+      },
+      {
+        "text": "d. compensating integral",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "Absolute poverty depends",
+    "options": [
+      {
+        "text": "a. on income but not on access to social services",
+        "is_correct": false
+      },
+      {
+        "text": "b. not on income but on access to social services",
+        "is_correct": false
+      },
+      {
+        "text": "c. on income and on access to social services",
+        "is_correct": true
+      },
+      {
+        "text": "d. neither on income nor on access to social services",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201ca condition where a household\u2019s income is lower than the median income in the particular country\u201d is known as",
+    "options": [
+      {
+        "text": "a. absolute poverty",
+        "is_correct": false
+      },
+      {
+        "text": "b. relative poverty",
+        "is_correct": true
+      },
+      {
+        "text": "c. median poverty",
+        "is_correct": false
+      },
+      {
+        "text": "d. poverty line",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201cthe equipment and structures used to produce goods and services\u201d is the definition of",
+    "options": [
+      {
+        "text": "a. tools",
+        "is_correct": false
+      },
+      {
+        "text": "b. machinery",
+        "is_correct": false
+      },
+      {
+        "text": "c. capital",
+        "is_correct": true
+      },
+      {
+        "text": "d. factors of production",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "For a competitive and profit-maximising firm,",
+    "options": [
+      {
+        "text": "a. each factor\u2019s rental price < the value of the marginal product for that factor",
+        "is_correct": false
+      },
+      {
+        "text": "b. each factor\u2019s rental price = the value of the marginal product for that factor",
+        "is_correct": true
+      },
+      {
+        "text": "c. each factor\u2019s rental price > the value of the marginal product for that factor",
+        "is_correct": false
+      },
+      {
+        "text": "d. each factor\u2019s rental price = the value of the average product for that factor",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "question": "\u201cthe political philosophy according to which the government should punish crimes and enforce voluntary agreements but not redistribute income\u201d is",
+    "options": [
+      {
+        "text": "a. Utilitarianism",
+        "is_correct": false
+      },
+      {
+        "text": "b. Liberalism",
+        "is_correct": false
+      },
+      {
+        "text": "c. Libertarianism",
+        "is_correct": true
+      },
+      {
+        "text": "d. Socialism",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\"a situation where a buyer is at a risk of being sold goods of low quality\u201d is an example of",
+    "options": [
+      {
+        "text": "a. adverse selection",
+        "is_correct": true
+      },
+      {
+        "text": "b. moral hazard",
+        "is_correct": false
+      },
+      {
+        "text": "c. symmetric information",
+        "is_correct": false
+      },
+      {
+        "text": "d. none of these",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201cthe change in consumption that results when a price change moves the consumer to a higher or lower indifference curve\u201d is known as",
+    "options": [
+      {
+        "text": "a. income effect",
+        "is_correct": true
+      },
+      {
+        "text": "b. substitution effect",
+        "is_correct": false
+      },
+      {
+        "text": "c. indifference effect",
+        "is_correct": false
+      },
+      {
+        "text": "d. budget effect",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "Which of these is not a property of indifference curves?",
+    "options": [
+      {
+        "text": "a. Higher indifference curves are preferred to lower ones",
+        "is_correct": false
+      },
+      {
+        "text": "b. Indifference curves are downward-sloping",
+        "is_correct": false
+      },
+      {
+        "text": "c. Indifference curves cross at right angles",
+        "is_correct": true
+      },
+      {
+        "text": "d. Indifference curves are bowed inwards",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201can action taken by an informed party to reveal private information to an uninformed party\u201d is known as",
+    "options": [
+      {
+        "text": "a. signalling",
+        "is_correct": true
+      },
+      {
+        "text": "b. screening",
+        "is_correct": false
+      },
+      {
+        "text": "c. informing",
+        "is_correct": false
+      },
+      {
+        "text": "d. heuristics",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201cthe part of actual resources that can be developed profitably in the future\u201d are",
+    "options": [
+      {
+        "text": "a. potential resources",
+        "is_correct": false
+      },
+      {
+        "text": "b. actual resources",
+        "is_correct": false
+      },
+      {
+        "text": "c. reserve resources",
+        "is_correct": true
+      },
+      {
+        "text": "d. stock resources",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201ca curve that shows consumption bundles that give the consumer the same level of satisfaction\u201d is known as",
+    "options": [
+      {
+        "text": "a. consumption curve",
+        "is_correct": false
+      },
+      {
+        "text": "b. satisfaction curve",
+        "is_correct": false
+      },
+      {
+        "text": "c. indifference curve",
+        "is_correct": true
+      },
+      {
+        "text": "d. budget curve",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201cthe rate at which a consumer is willing to trade one good for another\u201d is known as",
+    "options": [
+      {
+        "text": "a. marginal rate of substitution",
+        "is_correct": true
+      },
+      {
+        "text": "b. marginal rate of exchange",
+        "is_correct": false
+      },
+      {
+        "text": "c. marginal rate of trade",
+        "is_correct": false
+      },
+      {
+        "text": "d. marginal rate of transfer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201cRam is not wearing clothes properly, so Ram must also be lazy.\u201d This is an example of",
+    "options": [
+      {
+        "text": "a. confirmation bias",
+        "is_correct": false
+      },
+      {
+        "text": "b. halo effect",
+        "is_correct": false
+      },
+      {
+        "text": "c. horn effect",
+        "is_correct": true
+      },
+      {
+        "text": "d. priming",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201cmental short cut justifying increased investment in a decision because prior investment was made\u201d is",
+    "options": [
+      {
+        "text": "a. affect heuristic",
+        "is_correct": false
+      },
+      {
+        "text": "b. availability heuristic",
+        "is_correct": false
+      },
+      {
+        "text": "c. effort heuristic",
+        "is_correct": false
+      },
+      {
+        "text": "d. escalation of commitment",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "question": "\u201cthose resources that may be used in the future\u201d are",
+    "options": [
+      {
+        "text": "a. potential resources",
+        "is_correct": true
+      },
+      {
+        "text": "b. actual resources",
+        "is_correct": false
+      },
+      {
+        "text": "c. reserve resources",
+        "is_correct": false
+      },
+      {
+        "text": "d. stock resources",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "Captive breeding is an example of",
+    "options": [
+      {
+        "text": "a. in-situ conservation",
+        "is_correct": false
+      },
+      {
+        "text": "b. ex-situ conservation",
+        "is_correct": true
+      },
+      {
+        "text": "c. in-situ preservation",
+        "is_correct": false
+      },
+      {
+        "text": "d. ex-situ preservation",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "Biological control of pest populations is an example of",
+    "options": [
+      {
+        "text": "a. provisioning service",
+        "is_correct": false
+      },
+      {
+        "text": "b. regulating service",
+        "is_correct": true
+      },
+      {
+        "text": "c. supporting service",
+        "is_correct": false
+      },
+      {
+        "text": "d. cultural service",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "Zoo is an example of",
+    "options": [
+      {
+        "text": "a. in-situ conservation",
+        "is_correct": false
+      },
+      {
+        "text": "b. ex-situ conservation",
+        "is_correct": true
+      },
+      {
+        "text": "c. in-situ preservation",
+        "is_correct": false
+      },
+      {
+        "text": "d. ex-situ preservation",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as",
+    "options": [
+      {
+        "text": "a. umbrella species",
+        "is_correct": false
+      },
+      {
+        "text": "b. keystone species",
+        "is_correct": false
+      },
+      {
+        "text": "c. flagship species",
+        "is_correct": false
+      },
+      {
+        "text": "d. all of the above",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "As per Wildlife Protection Act 1972 (WPA 1972), wild life includes any animal, aquatic or land vegetation which forms part of any _____ (fill in the blank)",
+    "options": [
+      {
+        "text": "a. ecosystem",
+        "is_correct": false
+      },
+      {
+        "text": "b. state",
+        "is_correct": false
+      },
+      {
+        "text": "c. country",
+        "is_correct": false
+      },
+      {
+        "text": "d. habitat",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as",
+    "options": [
+      {
+        "text": "a. umbrella species",
+        "is_correct": false
+      },
+      {
+        "text": "b. keystone species",
+        "is_correct": false
+      },
+      {
+        "text": "c. flagship species",
+        "is_correct": false
+      },
+      {
+        "text": "d. all of the above",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "\u201cthe cost of impacts caused by emission of carbon dioxide\u201d is known as",
+    "options": [
+      {
+        "text": "a. cost of carbon",
+        "is_correct": false
+      },
+      {
+        "text": "b. economic cost of carbon",
+        "is_correct": false
+      },
+      {
+        "text": "c. social cost of carbon",
+        "is_correct": true
+      },
+      {
+        "text": "d. cultural cost of carbon",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "Soil formation is an example of",
+    "options": [
+      {
+        "text": "a. provisioning service",
+        "is_correct": false
+      },
+      {
+        "text": "b. regulating service",
+        "is_correct": false
+      },
+      {
+        "text": "c. supporting service",
+        "is_correct": true
+      },
+      {
+        "text": "d. cultural service",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as",
+    "options": [
+      {
+        "text": "a. umbrella species",
+        "is_correct": false
+      },
+      {
+        "text": "b. keystone species",
+        "is_correct": false
+      },
+      {
+        "text": "c. flagship species",
+        "is_correct": true
+      },
+      {
+        "text": "d. extinct species",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "week": 12,
+    "question": "Nutrient cycling is an example of",
+    "options": [
+      {
+        "text": "a. provisioning service",
+        "is_correct": false
+      },
+      {
+        "text": "b. regulating service",
+        "is_correct": false
+      },
+      {
+        "text": "c. supporting service",
+        "is_correct": true
+      },
+      {
+        "text": "d. cultural service",
+        "is_correct": false
+      }
+    ]
   }
 ];
