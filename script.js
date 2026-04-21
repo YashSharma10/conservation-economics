@@ -1,11 +1,15 @@
 // Assuming quizData is loaded globally from data.js
+// Assuming culturalData is loaded globally from culturalData.js
 const state = {
+    currentSubject: 'conservation',
     currentWeek: 1,
     progress: {}, // Tracks answered questions per week: { weekNum: { correct: 0, totalAnswered: 0 } }
     questionsByWeek: {}
 };
 
 // DOM Elements
+const subjectSelector = document.getElementById('subjectSelector');
+const subjectTitle = document.getElementById('subjectTitle');
 const weekSelector = document.getElementById('weekSelector');
 const questionsContainer = document.getElementById('questionsContainer');
 const currentWeekDisplay = document.getElementById('currentWeekDisplay');
@@ -13,9 +17,56 @@ const progressDisplay = document.getElementById('progressDisplay');
 const scoreDisplay = document.getElementById('scoreDisplay');
 
 function init() {
+    // Subject buttons setup
+    if (subjectSelector) {
+        const subjectBtns = subjectSelector.querySelectorAll('.week-btn');
+        subjectBtns.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const subject = e.target.getAttribute('data-subject');
+                selectSubject(subject);
+            });
+        });
+    }
+
+    // Load initial data
+    loadSubjectData(state.currentSubject);
+}
+
+function selectSubject(subject) {
+    if (state.currentSubject === subject) return;
+    state.currentSubject = subject;
+
+    // Update active subject button
+    const subjectBtns = subjectSelector.querySelectorAll('.week-btn');
+    subjectBtns.forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-subject') === subject);
+    });
+
+    if (subject === 'conservation') {
+        subjectTitle.textContent = 'Conservation Economics';
+    } else if (subject === 'cultural') {
+        subjectTitle.textContent = 'Introduction to Cultural Studies';
+    }
+
+    loadSubjectData(subject);
+}
+
+function loadSubjectData(subject) {
+    let currentData = [];
+    if (subject === 'conservation') {
+        currentData = quizData;
+    } else if (subject === 'cultural') {
+        currentData = culturalData;
+    }
+
+    // reset state
+    state.progress = {};
+    state.questionsByWeek = {};
+    weekSelector.innerHTML = '';
+
     // Process data
     const weeks = new Set();
-    quizData.forEach(q => {
+    currentData.forEach(q => {
         weeks.add(q.week);
         if (!state.questionsByWeek[q.week]) {
             state.questionsByWeek[q.week] = [];
@@ -29,6 +80,8 @@ function init() {
     // Default to the first available week
     if (sortedWeeks.length > 0) {
         state.currentWeek = sortedWeeks[0];
+    } else {
+        state.currentWeek = 1;
     }
 
     // Render Week Buttons
@@ -47,8 +100,8 @@ function selectWeek(week) {
     if (state.currentWeek === week) return;
     state.currentWeek = week;
     
-    // Update active button
-    document.querySelectorAll('.week-btn').forEach(btn => {
+    // Update active button only within weekSelector
+    weekSelector.querySelectorAll('.week-btn').forEach(btn => {
         btn.classList.toggle('active', btn.textContent === `Week ${week}`);
     });
     

@@ -21,10 +21,15 @@
                 <span class="badge">Made by Yash Sharma</span>
             </div>
             <div class="header-content">
-                <h1>Conservation Economics</h1>
-                <p class="subtitle">Test your knowledge from Week 1 to Week 12</p>
+                <h1 id="subjectTitle">Conservation Economics</h1>
+                <p class="subtitle" id="subjectSubtitle">Test your knowledge</p>
             </div>
             
+            <nav class="subject-selector" id="subjectSelector" style="margin-bottom: 2rem; display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;">
+                <button class="week-btn active" data-subject="conservation">Conservation Economics</button>
+                <button class="week-btn" data-subject="cultural">Introduction to Cultural Studies</button>
+            </nav>
+
             <nav class="week-selector" id="weekSelector">
                 <!-- Week pills generated dynamically -->
             </nav>
@@ -58,6 +63,7 @@
 
     <script type="module" src="https://unpkg.com/lucide@latest"></script>
     <script src="data.js"></script>
+    <script src="culturalData.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
