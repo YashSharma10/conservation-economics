@@ -402,5 +402,207 @@ const culturalData = [
       { text: "C. Transparency", is_correct: true },
       { text: "D. Language", is_correct: false }
     ]
+  },
+  // WEEK 5
+  {
+    week: 5,
+    question: "Which of the following is NOT true of “pastiche”?",
+    options: [
+      { text: "A. It retains admiration for what it copies", is_correct: true },
+      { text: "B. It is a hollowed-out blank copy", is_correct: false },
+      { text: "C. It does not acknowledge an ontological origin", is_correct: false },
+      { text: "D. It is a form of replication exhausted of laughter", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Identity politics follows a ______ reasoning.",
+    options: [
+      { text: "A. Contingent", is_correct: false },
+      { text: "B. Foundationalist", is_correct: true },
+      { text: "C. Postmodern", is_correct: false },
+      { text: "D. Performative", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Which of the following is NOT an idea of the pre-discursive self?",
+    options: [
+      { text: "A. The “I” has agency not produced by discourse", is_correct: false },
+      { text: "B. Discursive strategies can open new forms of agency and politics", is_correct: true },
+      { text: "C. The self exists before discourse", is_correct: false },
+      { text: "D. Discourse limits agency", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "The failure to define a universal category of “woman” is:",
+    options: [
+      { text: "A. A problem", is_correct: false },
+      { text: "B. A weakness", is_correct: false },
+      { text: "C. A limitation", is_correct: false },
+      { text: "D. A cause for celebration", is_correct: true }
+    ]
+  },
+  {
+    week: 5,
+    question: "Compulsory sexual identity refers to:",
+    options: [
+      { text: "A. Homosexuality", is_correct: false },
+      { text: "B. Bisexuality", is_correct: false },
+      { text: "C. Heterosexuality", is_correct: true },
+      { text: "D. Fluid sexuality", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Reification and alienation are concepts from:",
+    options: [
+      { text: "A. Postmodernism", is_correct: false },
+      { text: "B. Feminism", is_correct: false },
+      { text: "C. Marxism", is_correct: true },
+      { text: "D. Structuralism", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Tacit constraints (Butler) refer to:",
+    options: [
+      { text: "A. Visible laws", is_correct: false },
+      { text: "B. Biological limits", is_correct: false },
+      { text: "C. Generative structures", is_correct: true },
+      { text: "D. Personal choices", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Which of the following is NOT true of grand narratives?",
+    options: [
+      { text: "A. They claim universality", is_correct: false },
+      { text: "B. They impose dominant ideology", is_correct: false },
+      { text: "C. They reveal their constructed nature", is_correct: true },
+      { text: "D. They suppress diversity", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Identity formation is an:",
+    options: [
+      { text: "A. Origin", is_correct: false },
+      { text: "B. Cause", is_correct: false },
+      { text: "C. Effect", is_correct: true },
+      { text: "D. Essence", is_correct: false }
+    ]
+  },
+  {
+    week: 5,
+    question: "Gender roles signify:",
+    options: [
+      { text: "A. Natural identity", is_correct: false },
+      { text: "B. Biological truth", is_correct: false },
+      { text: "C. Personal freedom", is_correct: false },
+      { text: "D. Result of multiple discourses restricting identity", is_correct: true }
+    ]
+  },
+  // WEEK 6
+  {
+    week: 6,
+    question: "For Arendt, which of the following is NOT a product of “Action”?",
+    options: [
+      { text: "A. Plurality", is_correct: false },
+      { text: "B. Repetition of sameness", is_correct: true },
+      { text: "C. Individuality", is_correct: false },
+      { text: "D. Artificiality", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "By Arendt’s theorization, cultural products are:",
+    options: [
+      { text: "A. Artificial products", is_correct: true },
+      { text: "B. Natural products", is_correct: false },
+      { text: "C. Biological products", is_correct: false },
+      { text: "D. Non-human products", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "Which of the following does NOT fall within the realm of the political (Arendt)?",
+    options: [
+      { text: "A. Natality", is_correct: false },
+      { text: "B. Action", is_correct: false },
+      { text: "C. Mortality", is_correct: true },
+      { text: "D. Plurality", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "What does Arendt think would happen if things were not conditioners of human existence?",
+    options: [
+      { text: "A. They would expose their essential qualities", is_correct: false },
+      { text: "B. They would become a heap of unrelated articles, a non-world", is_correct: true },
+      { text: "C. Human existence would rise beyond materialism", is_correct: false },
+      { text: "D. Astrology/astronomy would dominate", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "The human working alone without connection to others is compared to:",
+    options: [
+      { text: "A. Devil", is_correct: false },
+      { text: "B. Homo Faber", is_correct: false },
+      { text: "C. Divine Demiurge", is_correct: true },
+      { text: "D. God the creator", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "The lack of requirement to step out in public in modern times is a marker of:",
+    options: [
+      { text: "A. Joblessness", is_correct: false },
+      { text: "B. Privilege", is_correct: true },
+      { text: "C. Precarity", is_correct: false },
+      { text: "D. Powerlessness", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "Arendt says the public realm cannot harbor the:",
+    options: [
+      { text: "A. Ontological", is_correct: false },
+      { text: "B. Crucial", is_correct: false },
+      { text: "C. Critical", is_correct: false },
+      { text: "D. Irrelevant", is_correct: true }
+    ]
+  },
+  {
+    week: 6,
+    question: "Who wrote “Death of the Author”?",
+    options: [
+      { text: "A. Michel Foucault", is_correct: false },
+      { text: "B. Roland Barthes", is_correct: true },
+      { text: "C. Jacques Derrida", is_correct: false },
+      { text: "D. Judith Butler", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "According to Foucault, the author has replaced which figure?",
+    options: [
+      { text: "A. Orator", is_correct: false },
+      { text: "B. Troubadour", is_correct: false },
+      { text: "C. Hero", is_correct: true },
+      { text: "D. Laborer", is_correct: false }
+    ]
+  },
+  {
+    week: 6,
+    question: "According to Foucault, the writer must assume the role of:",
+    options: [
+      { text: "A. Player", is_correct: false },
+      { text: "B. Referee", is_correct: false },
+      { text: "C. Viewer", is_correct: false },
+      { text: "D. Dead man", is_correct: true }
+    ]
   }
 ];
