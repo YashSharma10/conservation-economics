@@ -2,47 +2,47 @@ const culturalData = [
   // WEEK 1
   {
     week: 1,
-    question: "Art is not something that is:",
+    question: "Which of the following is NOT true of art?",
     options: [
-      { text: "A. Socially produced", is_correct: false },
-      { text: "B. Politically influenced", is_correct: false },
-      { text: "C. Economically shaped", is_correct: false },
-      { text: "D. Produced out of vacuum by the artist", is_correct: true }
+      { text: "A. It is socially produced", is_correct: false },
+      { text: "B. It is politically influenced", is_correct: false },
+      { text: "C. It is economically shaped", is_correct: false },
+      { text: "D. It is produced out of vacuum by the artist", is_correct: true }
     ]
   },
   {
     week: 1,
-    question: "Adorno & Horkheimer belong to:",
+    question: "Max Horkheimer and Theodor Adorno belonged to:",
     options: [
-      { text: "A. Marxism", is_correct: false },
-      { text: "B. Frankfurt School", is_correct: true },
-      { text: "C. Structuralism", is_correct: false },
-      { text: "D. Postmodernism", is_correct: false }
+      { text: "A. Structuralism", is_correct: false },
+      { text: "B. Postmodernism", is_correct: false },
+      { text: "C. Frankfurt School", is_correct: true },
+      { text: "D. Marxism", is_correct: false }
     ]
   },
   {
     week: 1,
-    question: "“Blockbuster” comes from:",
+    question: "The term “blockbuster” originates from:",
     options: [
       { text: "A. Cinema", is_correct: false },
-      { text: "B. Literature", is_correct: false },
-      { text: "C. War", is_correct: true },
-      { text: "D. Theatre", is_correct: false }
+      { text: "B. Theatre", is_correct: false },
+      { text: "C. Literature", is_correct: false },
+      { text: "D. War", is_correct: true }
     ]
   },
   {
     week: 1,
     question: "ISA and RSA are forms of:",
     options: [
-      { text: "A. Ideology", is_correct: false },
+      { text: "A. Identity", is_correct: false },
       { text: "B. Culture", is_correct: false },
       { text: "C. Control", is_correct: true },
-      { text: "D. Identity", is_correct: false }
+      { text: "D. Ideology", is_correct: false }
     ]
   },
   {
     week: 1,
-    question: "Marx moves away from:",
+    question: "Marx moves away from the humanism of:",
     options: [
       { text: "A. Feuerbach", is_correct: false },
       { text: "B. Nietzsche", is_correct: false },
@@ -52,179 +52,179 @@ const culturalData = [
   },
   {
     week: 1,
-    question: "Hunting narratives represent:",
+    question: "Hunting narratives in colonial space represent:",
     options: [
-      { text: "A. Freedom", is_correct: false },
-      { text: "B. Nature", is_correct: false },
-      { text: "C. Domination over natives", is_correct: true },
-      { text: "D. Adventure", is_correct: false }
+      { text: "A. Adventure", is_correct: false },
+      { text: "B. Freedom", is_correct: false },
+      { text: "C. Domination over colonial natives", is_correct: true },
+      { text: "D. Natural instinct", is_correct: false }
     ]
   },
   {
     week: 1,
-    question: "Orientalism highlights:",
+    question: "Eurocentric Orientalism highlights ______ quality of imagination",
     options: [
-      { text: "A. Cultural imagination", is_correct: false },
-      { text: "B. Political imagination", is_correct: true },
-      { text: "C. Scientific imagination", is_correct: false },
-      { text: "D. Artistic imagination", is_correct: false }
+      { text: "A. Cultural", is_correct: false },
+      { text: "B. Scientific", is_correct: false },
+      { text: "C. Political", is_correct: true },
+      { text: "D. Artistic", is_correct: false }
     ]
   },
   {
     week: 1,
     question: "Repeatability and Fixity are:",
     options: [
-      { text: "A. Opposites", is_correct: false },
+      { text: "A. Oppositional", is_correct: false },
       { text: "B. Independent", is_correct: false },
       { text: "C. Complementary", is_correct: true },
-      { text: "D. Irrelevant", is_correct: false }
+      { text: "D. Unrelated", is_correct: false }
     ]
   },
   {
     week: 1,
-    question: "Colonized is “other” and yet:",
+    question: "The colonized subject is seen as “other” and yet:",
     options: [
-      { text: "A. Unknown", is_correct: false },
-      { text: "B. Invisible", is_correct: false },
+      { text: "A. Invisible", is_correct: false },
+      { text: "B. Unknown", is_correct: false },
       { text: "C. Entirely knowable and visible", is_correct: true },
       { text: "D. Equal", is_correct: false }
     ]
   },
   {
     week: 1,
-    question: "Colonizers situate origin as:",
+    question: "Colonizers aim to situate origin as:",
     options: [
-      { text: "A. Mixed", is_correct: false },
-      { text: "B. Hybrid", is_correct: false },
+      { text: "A. Hybrid", is_correct: false },
+      { text: "B. Artificial", is_correct: false },
       { text: "C. Pure", is_correct: true },
-      { text: "D. Artificial", is_correct: false }
+      { text: "D. Mixed", is_correct: false }
     ]
   },
   // WEEK 2
   {
     week: 2,
-    question: "Allegorical annihilation of:",
+    question: "Allegorical annihilation of the white man’s:",
     options: [
-      { text: "A. Power", is_correct: false },
-      { text: "B. Identity", is_correct: false },
-      { text: "C. Agency", is_correct: true },
-      { text: "D. Authority", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Orwell cared about:",
-    options: [
-      { text: "A. Safety", is_correct: false },
-      { text: "B. Elephant", is_correct: false },
-      { text: "C. Ideological image of white man", is_correct: true },
-      { text: "D. Crowd", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Lyotard rejects:",
-    options: [
-      { text: "A. Local knowledge", is_correct: false },
-      { text: "B. Discursive knowledge", is_correct: false },
-      { text: "C. Universal knowledge", is_correct: true },
-      { text: "D. Fragmented knowledge", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Language games by:",
-    options: [
-      { text: "A. Lyotard", is_correct: false },
-      { text: "B. Foucault", is_correct: false },
-      { text: "C. Wittgenstein", is_correct: true },
-      { text: "D. Derrida", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Self exists in:",
-    options: [
-      { text: "A. One identity", is_correct: false },
-      { text: "B. Stable form", is_correct: false },
-      { text: "C. Multiple discursive frameworks", is_correct: true },
-      { text: "D. Pure form", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Baudelaire shows:",
-    options: [
-      { text: "A. Happiness", is_correct: false },
-      { text: "B. Ennui", is_correct: true },
-      { text: "C. Anger", is_correct: false },
-      { text: "D. Passion", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Orwell keeps shooting:",
-    options: [
-      { text: "A. To show power", is_correct: false },
-      { text: "B. For fun", is_correct: false },
-      { text: "C. To end elephant’s suffering", is_correct: true },
-      { text: "D. For crowd", is_correct: false }
-    ]
-  },
-  {
-    week: 2,
-    question: "Colonial officers protect:",
-    options: [
-      { text: "A. Economy", is_correct: false },
+      { text: "A. Authority", is_correct: false },
       { text: "B. Power", is_correct: false },
-      { text: "C. White supremacy", is_correct: true },
-      { text: "D. Culture", is_correct: false }
+      { text: "C. Identity", is_correct: false },
+      { text: "D. Agency", is_correct: true }
     ]
   },
   {
     week: 2,
-    question: "Elephant’s death is NOT:",
+    question: "Orwell cared more about:",
+    options: [
+      { text: "A. His personal safety", is_correct: false },
+      { text: "B. The elephant", is_correct: false },
+      { text: "C. The ideological construct of the white European man", is_correct: true },
+      { text: "D. The crowd", is_correct: false }
+    ]
+  },
+  {
+    week: 2,
+    question: "According to Lyotard, which of the following is NOT a category of knowledge?",
+    options: [
+      { text: "A. Discursive", is_correct: false },
+      { text: "B. Commodifiable", is_correct: false },
+      { text: "C. Weaponized", is_correct: false },
+      { text: "D. Universal", is_correct: true }
+    ]
+  },
+  {
+    week: 2,
+    question: "Who introduced the concept of “Language Games”?",
+    options: [
+      { text: "A. Michel Foucault", is_correct: false },
+      { text: "B. Jean-François Lyotard", is_correct: false },
+      { text: "C. Ludwig Wittgenstein", is_correct: true },
+      { text: "D. Jacques Derrida", is_correct: false }
+    ]
+  },
+  {
+    week: 2,
+    question: "Lyotard argues that the “self” exists in:",
+    options: [
+      { text: "A. A fixed identity", is_correct: false },
+      { text: "B. A unified structure", is_correct: false },
+      { text: "C. Intersections of multiple discursive frameworks", is_correct: true },
+      { text: "D. A natural state", is_correct: false }
+    ]
+  },
+  {
+    week: 2,
+    question: "Baudelaire’s poetry represents:",
+    options: [
+      { text: "A. Joy", is_correct: false },
+      { text: "B. Passion", is_correct: false },
+      { text: "C. Ennui", is_correct: true },
+      { text: "D. Anger", is_correct: false }
+    ]
+  },
+  {
+    week: 2,
+    question: "Why does Orwell keep shooting the elephant?",
+    options: [
+      { text: "A. To impress the crowd", is_correct: false },
+      { text: "B. To assert power", is_correct: false },
+      { text: "C. To rid the elephant from slow painful death", is_correct: true },
+      { text: "D. To follow orders", is_correct: false }
+    ]
+  },
+  {
+    week: 2,
+    question: "Colonial officers aimed to protect:",
+    options: [
+      { text: "A. Economic interests", is_correct: false },
+      { text: "B. Cultural identity", is_correct: false },
+      { text: "C. Supremacy of the white European", is_correct: true },
+      { text: "D. Law and order", is_correct: false }
+    ]
+  },
+  {
+    week: 2,
+    question: "The elephant’s death is NOT:",
     options: [
       { text: "A. Slow", is_correct: false },
       { text: "B. Painful", is_correct: false },
-      { text: "C. Detailed", is_correct: false },
+      { text: "C. Cinematic", is_correct: false },
       { text: "D. Hasty", is_correct: true }
     ]
   },
   {
     week: 2,
-    question: "Public space = consensus:",
+    question: "The idea of public space as consensus is given by:",
     options: [
-      { text: "A. Lyotard", is_correct: false },
-      { text: "B. Marx", is_correct: false },
-      { text: "C. Habermas", is_correct: true },
-      { text: "D. Foucault", is_correct: false }
+      { text: "A. Karl Marx", is_correct: false },
+      { text: "B. Michel Foucault", is_correct: false },
+      { text: "C. Jürgen Habermas", is_correct: true },
+      { text: "D. Jean-François Lyotard", is_correct: false }
     ]
   },
   // WEEK 3
   {
     week: 3,
-    question: "Language games are:",
+    question: "Lyotard defines language games as:",
     options: [
-      { text: "A. Universal systems", is_correct: false },
-      { text: "B. Private systems", is_correct: false },
-      { text: "C. Discursive utterances with rules", is_correct: true },
-      { text: "D. Random speech", is_correct: false }
+      { text: "A. Universal systems of meaning", is_correct: false },
+      { text: "B. Private individual expressions", is_correct: false },
+      { text: "C. Different utterances within a particular discursive framework", is_correct: true },
+      { text: "D. Random speech patterns", is_correct: false }
     ]
   },
   {
     week: 3,
-    question: "Grammar limits:",
+    question: "Grammar and vocabulary prevent the expression of:",
     options: [
-      { text: "A. Communication", is_correct: false },
-      { text: "B. Expression of unpresentable", is_correct: true },
-      { text: "C. Thought", is_correct: false },
-      { text: "D. Meaning", is_correct: false }
+      { text: "A. Logical meaning", is_correct: false },
+      { text: "B. Clear communication", is_correct: false },
+      { text: "C. The unpresentable", is_correct: true },
+      { text: "D. Social interaction", is_correct: false }
     ]
   },
   {
     week: 3,
-    question: "NOT postmodern idea:",
+    question: "Which of the following is NOT a feature of postmodern thought?",
     options: [
       { text: "A. Difference", is_correct: false },
       { text: "B. Incommensurability", is_correct: false },
@@ -234,17 +234,17 @@ const culturalData = [
   },
   {
     week: 3,
-    question: "Grand narratives:",
+    question: "Grand narratives in postmodernism are:",
     options: [
       { text: "A. Accepted", is_correct: false },
-      { text: "B. Rejected", is_correct: true },
-      { text: "C. Modified", is_correct: false },
-      { text: "D. Supported", is_correct: false }
+      { text: "B. Celebrated", is_correct: false },
+      { text: "C. Rejected", is_correct: true },
+      { text: "D. Strengthened", is_correct: false }
     ]
   },
   {
     week: 3,
-    question: "Psychological state:",
+    question: "The psychological condition associated with hegemonic identity is:",
     options: [
       { text: "A. Schizophrenia", is_correct: false },
       { text: "B. Anxiety", is_correct: true },
@@ -254,37 +254,37 @@ const culturalData = [
   },
   {
     week: 3,
-    question: "Book by Fanon:",
+    question: "Which of the following is a work by Frantz Fanon?",
     options: [
       { text: "A. Orientalism", is_correct: false },
-      { text: "B. Location of Culture", is_correct: false },
+      { text: "B. The Location of Culture", is_correct: false },
       { text: "C. Wretched of the Earth", is_correct: true },
       { text: "D. Gender Trouble", is_correct: false }
     ]
   },
   {
     week: 3,
-    question: "Human condition requires:",
+    question: "According to Fanon, the essential aspect of the human condition is:",
     options: [
-      { text: "A. Power", is_correct: false },
+      { text: "A. Authority", is_correct: false },
       { text: "B. Freedom", is_correct: false },
       { text: "C. Dignity", is_correct: true },
-      { text: "D. Authority", is_correct: false }
+      { text: "D. Power", is_correct: false }
     ]
   },
   {
     week: 3,
-    question: "NOT effect of epidermalization:",
+    question: "Which of the following is NOT an effect of epidermalization?",
     options: [
-      { text: "A. Inferiority", is_correct: false },
-      { text: "B. Internalization", is_correct: false },
-      { text: "C. Loss of identity", is_correct: false },
-      { text: "D. Removal of skin awareness", is_correct: true }
+      { text: "A. Internalization of inferiority", is_correct: false },
+      { text: "B. Loss of identity", is_correct: false },
+      { text: "C. Psychological conditioning", is_correct: false },
+      { text: "D. Removal of awareness of skin color", is_correct: true }
     ]
   },
   {
     week: 3,
-    question: "Fanon is:",
+    question: "Fanon’s attitude towards submissive narratives is:",
     options: [
       { text: "A. Supportive", is_correct: false },
       { text: "B. Neutral", is_correct: false },
@@ -294,38 +294,38 @@ const culturalData = [
   },
   {
     week: 3,
-    question: "Difference in language judgment:",
+    question: "The difference in judgment between a European and a Black person speaking French is based on:",
     options: [
-      { text: "A. Equal", is_correct: false },
-      { text: "B. Based on skill", is_correct: false },
-      { text: "C. Based on race", is_correct: true },
-      { text: "D. Based on effort", is_correct: false }
+      { text: "A. Skill", is_correct: false },
+      { text: "B. Effort", is_correct: false },
+      { text: "C. Race", is_correct: true },
+      { text: "D. Education", is_correct: false }
     ]
   },
   // WEEK 4
   {
     week: 4,
-    question: "Breton’s comment is:",
+    question: "André Breton’s comment on Aimé Césaire can be described as:",
     options: [
       { text: "A. Appreciative", is_correct: false },
-      { text: "B. Overt racism", is_correct: false },
-      { text: "C. Covert racism", is_correct: true },
+      { text: "B. Overtly racist", is_correct: false },
+      { text: "C. Covertly racist", is_correct: true },
       { text: "D. Neutral", is_correct: false }
     ]
   },
   {
     week: 4,
-    question: "Inferiority comes from:",
+    question: "According to Fanon, the source of inferiority is:",
     options: [
-      { text: "A. Ability", is_correct: false },
-      { text: "B. Language", is_correct: false },
-      { text: "C. White superiority system", is_correct: true },
-      { text: "D. Education", is_correct: false }
+      { text: "A. Lack of ability", is_correct: false },
+      { text: "B. Language deficiency", is_correct: false },
+      { text: "C. Racist sense of white superiority", is_correct: true },
+      { text: "D. Lack of education", is_correct: false }
     ]
   },
   {
     week: 4,
-    question: "Prospero from:",
+    question: "Prospero is a character from which text?",
     options: [
       { text: "A. Hamlet", is_correct: false },
       { text: "B. Macbeth", is_correct: false },
@@ -335,37 +335,37 @@ const culturalData = [
   },
   {
     week: 4,
-    question: "Black identity:",
+    question: "Fanon argues that the black man is denied ontological authenticity because:",
     options: [
-      { text: "A. Independent", is_correct: false },
-      { text: "B. Natural", is_correct: false },
-      { text: "C. Relative to whiteness", is_correct: true },
-      { text: "D. Stable", is_correct: false }
+      { text: "A. He lacks identity", is_correct: false },
+      { text: "B. He is culturally inferior", is_correct: false },
+      { text: "C. He is always constructed relative to whiteness", is_correct: true },
+      { text: "D. He has no history", is_correct: false }
     ]
   },
   {
     week: 4,
-    question: "Gender is:",
+    question: "According to Butler, gender is:",
     options: [
       { text: "A. Biological", is_correct: false },
-      { text: "B. Fixed", is_correct: false },
-      { text: "C. Entanglement of abstract + material", is_correct: true },
+      { text: "B. Fixed identity", is_correct: false },
+      { text: "C. Entanglement of abstract and material conditions", is_correct: true },
       { text: "D. Natural", is_correct: false }
     ]
   },
   {
     week: 4,
-    question: "Representation:",
+    question: "Representation, according to Butler:",
     options: [
-      { text: "A. Pure truth", is_correct: false },
-      { text: "B. False", is_correct: false },
-      { text: "C. Reveals/distorts", is_correct: true },
-      { text: "D. Neutral", is_correct: false }
+      { text: "A. Reflects pure truth", is_correct: false },
+      { text: "B. Is always false", is_correct: false },
+      { text: "C. Reveals or distorts what is assumed about women", is_correct: true },
+      { text: "D. Is neutral", is_correct: false }
     ]
   },
   {
     week: 4,
-    question: "Gender is:",
+    question: "Butler describes gender as a:",
     options: [
       { text: "A. Noun", is_correct: false },
       { text: "B. Adjective", is_correct: false },
@@ -375,27 +375,27 @@ const culturalData = [
   },
   {
     week: 4,
-    question: "Gender totality:",
+    question: "Gender totality is:",
     options: [
       { text: "A. Fixed", is_correct: false },
-      { text: "B. Complete", is_correct: false },
-      { text: "C. Deferred", is_correct: true },
-      { text: "D. Stable", is_correct: false }
+      { text: "B. Stable", is_correct: false },
+      { text: "C. Complete", is_correct: false },
+      { text: "D. Deferred", is_correct: true }
     ]
   },
   {
     week: 4,
-    question: "NOT difference:",
+    question: "Which of the following is NOT a difference between Irigaray and Beauvoir?",
     options: [
-      { text: "A. Resistance idea", is_correct: true },
-      { text: "B. Ontology", is_correct: false },
-      { text: "C. Representation", is_correct: false },
-      { text: "D. Identity", is_correct: false }
+      { text: "A. Their views on representation", is_correct: false },
+      { text: "B. Their views on ontology", is_correct: false },
+      { text: "C. Their views on identity", is_correct: false },
+      { text: "D. Othering allows resistance", is_correct: true }
     ]
   },
   {
     week: 4,
-    question: "Absence interrupts:",
+    question: "Absence and opacity interrupt:",
     options: [
       { text: "A. Meaning", is_correct: false },
       { text: "B. Structure", is_correct: false },
